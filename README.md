@@ -1,1 +1,1 @@
-# Go
+# Getting Started with GO
